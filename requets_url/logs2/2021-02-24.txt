@@ -1,0 +1,42 @@
+[2021-02-24 09:28:23] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 09:28:23] [DEBUG] http://192.168.2.73:999 "POST /blade-auth/token HTTP/1.1" 200 None
+[2021-02-24 09:28:23] [INFO] 返回成功
+[2021-02-24 09:28:23] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 09:28:23] [DEBUG] http://192.168.2.73:999 "POST /blade-auth/token HTTP/1.1" 200 None
+[2021-02-24 09:28:23] [INFO] 返回成功
+[2021-02-24 09:28:23] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 09:28:23] [DEBUG] http://192.168.2.73:999 "POST /kunheng-anchor/goods/listTenantGoods?current=1&size=10 HTTP/1.1" 405 None
+[2021-02-24 09:28:23] [ERROR] 返回失败！http://192.168.2.73:999/kunheng-anchor/goods/listTenantGoods?current=1&size=10{"code":405,"success":false,"data":null,"msg":"Request method 'POST' not supported"}
+[2021-02-24 09:28:23] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 09:28:23] [DEBUG] http://192.168.2.73:999 "GET /kunheng-anchor/goods/listTenantGoods?current=1&size=10&%22%22 HTTP/1.1" 500 None
+[2021-02-24 09:28:23] [ERROR] get返回失败！http://192.168.2.73:999/kunheng-anchor/goods/listTenantGoods?current=1&size=10&%22%22{"code":500,"success":false,"data":null,"msg":"服务器异常"}
+[2021-02-24 09:28:24] [INFO] 邮件发送完成
+[2021-02-24 09:28:24] [INFO] 邮件发送完成
+[2021-02-24 09:51:22] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 09:51:22] [DEBUG] http://192.168.2.73:999 "POST /blade-auth/token HTTP/1.1" 200 None
+[2021-02-24 09:51:22] [INFO] 返回成功
+[2021-02-24 09:51:22] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 09:51:22] [DEBUG] http://192.168.2.73:999 "POST /blade-auth/token HTTP/1.1" 200 None
+[2021-02-24 09:51:22] [INFO] 返回成功
+[2021-02-24 09:51:22] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 09:51:22] [DEBUG] http://192.168.2.73:999 "POST /kunheng-anchor/goods/listTenantGoods?current=1&size=10 HTTP/1.1" 405 None
+[2021-02-24 09:51:22] [ERROR] 返回失败！http://192.168.2.73:999/kunheng-anchor/goods/listTenantGoods?current=1&size=10{"code":405,"success":false,"data":null,"msg":"Request method 'POST' not supported"}
+[2021-02-24 09:51:22] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 09:51:22] [DEBUG] http://192.168.2.73:999 "GET /kunheng-anchor/goods/listTenantGoods?current=1&size=10&%22%22 HTTP/1.1" 500 None
+[2021-02-24 09:51:22] [ERROR] get返回失败！http://192.168.2.73:999/kunheng-anchor/goods/listTenantGoods?current=1&size=10&%22%22{"code":500,"success":false,"data":null,"msg":"服务器异常"}
+[2021-02-24 09:51:24] [INFO] 邮件发送完成
+[2021-02-24 09:51:24] [INFO] 邮件发送完成
+[2021-02-24 11:57:01] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 11:57:01] [DEBUG] http://192.168.2.73:999 "POST /blade-auth/token HTTP/1.1" 200 None
+[2021-02-24 11:57:01] [INFO] 返回成功
+[2021-02-24 11:57:01] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 11:57:01] [DEBUG] http://192.168.2.73:999 "POST /blade-auth/token HTTP/1.1" 200 None
+[2021-02-24 11:57:01] [INFO] 返回成功
+[2021-02-24 11:57:01] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 11:57:01] [DEBUG] http://192.168.2.73:999 "POST /kunheng-anchor/goods/listTenantGoods?current=1&size=10 HTTP/1.1" 405 None
+[2021-02-24 11:57:01] [ERROR] 返回失败！http://192.168.2.73:999/kunheng-anchor/goods/listTenantGoods?current=1&size=10{"code":405,"success":false,"data":null,"msg":"Request method 'POST' not supported"}
+[2021-02-24 11:57:01] [DEBUG] Starting new HTTP connection (1): 192.168.2.73:999
+[2021-02-24 11:57:01] [DEBUG] http://192.168.2.73:999 "GET /kunheng-anchor/goods/listTenantGoods?current=1&size=10&%22%22 HTTP/1.1" 500 None
+[2021-02-24 11:57:01] [ERROR] get返回失败！http://192.168.2.73:999/kunheng-anchor/goods/listTenantGoods?current=1&size=10&%22%22{"code":500,"success":false,"data":null,"msg":"服务器异常"}
+[2021-02-24 11:57:09] [INFO] 邮件发送完成
+[2021-02-24 11:57:09] [INFO] 邮件发送完成
